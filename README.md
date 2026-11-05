@@ -76,7 +76,7 @@ python main.py
 
 ## Author
 
-**Your Name**
+**Nancy Agarwal**
 
 ---
 
