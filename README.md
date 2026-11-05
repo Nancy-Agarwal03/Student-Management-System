@@ -16,7 +16,7 @@ A Python-based Student Management System designed to simplify and organize stude
 - Python
 - MySQL
 - SQL
-- [Add other technologies if applicable]
+- Libraries like: Stremlit, Pandas, Matplotlib
 
 ## Project Structure
 
